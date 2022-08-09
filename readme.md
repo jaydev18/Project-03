@@ -6,7 +6,7 @@ This is a very basic project shows how to use flexbox.
 > 
 > Flex-direction: row ;
 > 
-> align-self:  center;
+> align-items:  center;
 > 
 > justify-content: center | space-between | ;
 
